@@ -1,0 +1,21 @@
+{
+	"name": "Hex Editor",
+	"description": "在 Hex Editor 中查看/编辑 Hex 码",
+
+	"hexeditor.inspectorType": "数据查看器的显示位置。",
+	"hexeditor.maxFileSize": "多少 MB 文件将会产生警告。",
+	"hexeditor.dataInspector.autoReveal": "是否在编辑器启动时自动显示数据查看器。",
+	"hexeditor.defaultEndianness": "加载编辑器是所选端序。",
+	"hexeditor.columnWidth": "编辑器中单列显示字节数。",
+	"hexeditor.showDecodedText": "是否在编辑器中显示解码后的文本。",
+	"hexeditor.showOpenFileButton": "在编辑器菜单中显示 Hex Editor 按钮。",
+	"hexEditor.openFile": "在 Hex Editor 中打开当前文件",
+	"hexEditor.goToOffset": "跳转到偏移",
+	"hexEditor.selectBetweenOffsets": "在偏移中选择",
+	"hexEditor.copyAs": "复制为 ...",
+	"hexEditor.switchEditMode": "切换编辑模式",
+	"hexEditor.copyOffsetAsDec": "复制偏移作为整数",
+	"hexEditor.copyOffsetAsHex": "复制偏移作为 Hex 码",
+	"hexEditor.compareSelected": "对比选区在 HexEditor 中（实验性）",
+	"dataInspectorView": "数据查看器"
+}

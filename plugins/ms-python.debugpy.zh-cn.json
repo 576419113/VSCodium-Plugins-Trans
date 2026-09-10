@@ -1,0 +1,9 @@
+{
+    "debugpy.command.clearCacheAndReload.title": "清除缓存并重新加载窗口",
+    "debugpy.command.debugInTerminal.title": "Python 调试器: 调试 Python 文件",
+    "debugpy.command.debugUsingLaunchConfig.title": "Python 调试器: 使用 launch.json 调试",
+    "debugpy.command.reportIssue.title": "报告问题 ...",
+    "debugpy.command.viewOutput.title": "显示输出",
+    "debugpy.debugJustMyCode.description": "调试时仅单步执行用户编写的代码，禁用此选项可允许单步进入库代码。",
+    "debugpy.showPythonInlineValues.description": "在调试时是否在编辑器中显示内联值。"
+}
