@@ -5,13 +5,17 @@
     "version": "1.0.0",
     "publisher": "GeoKung",
     "engines": {
-        "vscode": "^1.137.0"
+        "vscode": "^1.105.0"
     },
     "categories": [
         "Other"
     ],
     "main": "./out/extension.js",
     "activationEvents": [ "onStartupFinished" ],
+    "repository": {
+        "url": "https://github.com/576419113/VSCodium-Plugins-Trans",
+        "type": "git"
+    },
     "contributes": {
         "commands": [
             {
@@ -40,7 +44,7 @@
     },
     "devDependencies": {
         "@types/node": "^22.20.2",
-        "@types/vscode": "^1.137.0",
+        "@types/vscode": "1.105.0",
         "typescript": "^7.0.2"
     }
 }
